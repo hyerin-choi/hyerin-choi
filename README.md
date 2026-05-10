@@ -28,7 +28,7 @@ education   : Seoul Tech (BSc Civil Systems + CS double major)
 status      : Targeting Digital Finance Trading / IT
 ```
 
-> 학부생 시절부터 IoT 임베디드 → 스마트시티 → 금융 NLP → MLOps / RAG로 도메인을 확장해 왔습니다. 모델이 논문을 떠나 현장에서 돌아가게 만드는 일에 가장 큰 흥미를 느낍니다.
+> 연구에서 확장해 개발한 시스템이 현장에서 돌아가게 만드는 일에 가장 큰 흥미를 느낍니다.
 
 ---
 
@@ -175,7 +175,7 @@ status      : Targeting Digital Finance Trading / IT
 
 ## 📚 Publications
 
-> **1저자 논문 3편 / 공저 1편 — 학부생 단독 1저자 비율 높음**
+> **1저자 논문 3편 / 공저 1편**
 
 1. **안전관리 Smartglasses IoT** — 한국정보처리학회 ACK 2023 (2022.11) / **1저자 (6명)** / 🏅 장려상
 2. **시각장애인 화재 대피 시스템** — 한국정보처리학회 ACK 2023 (2022.11) / **1저자 (4명)**
