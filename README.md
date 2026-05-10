@@ -20,7 +20,6 @@
 
 ```yaml
 name        : Hyerin Choi (최혜린)
-role        : AI Researcher @ Surromind (Gen AI team)
 focus       : MLOps / LLM / RAG / Edge Quantization
 mission     : Bringing research-grade models into production-grade systems
 based_in    : Seoul, KR
@@ -191,7 +190,6 @@ status      : Targeting Digital Finance Trading / IT
 <td width="50%" valign="top">
 
 ### 🔬 ETRI MLOps Quantization
-**@ Surromind, Gen AI Team**
 
 FP32 → INT8 Post-Training Quantization
 TensorRT / ONNX Runtime / TFLite
@@ -202,7 +200,6 @@ TensorRT / ONNX Runtime / TFLite
 <td width="50%" valign="top">
 
 ### 🤖 Humanoid Robot Data Pipeline
-**@ Surromind × ETRI**
 
 NVIDIA IsaacSim / Cosmos Domain Randomization / GR00T
 
