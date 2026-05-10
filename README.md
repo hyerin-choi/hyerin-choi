@@ -20,6 +20,7 @@
 
 ```yaml
 name        : Hyerin Choi (최혜린)
+role        : AI Researcher @ Surromind (Gen AI team)
 focus       : MLOps / LLM / RAG / Edge Quantization
 mission     : Bringing research-grade models into production-grade systems
 based_in    : Seoul, KR
@@ -27,7 +28,7 @@ education   : Seoul Tech (BSc Civil Systems + CS double major)
 status      : Targeting Digital Finance Trading / IT
 ```
 
-> 연구에서 확장해 개발한 시스템이 현장에서 돌아가게 만드는 일에 가장 큰 흥미를 느낍니다.
+> 학부생 시절부터 IoT 임베디드 → 스마트시티 → 금융 NLP → MLOps / RAG로 도메인을 확장해 왔습니다. 모델이 논문을 떠나 현장에서 돌아가게 만드는 일에 가장 큰 흥미를 느낍니다.
 
 ---
 
@@ -79,16 +80,15 @@ status      : Targeting Digital Finance Trading / IT
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hyerin-choi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyerin-choi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=hyerin-choi&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyerin-choi&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyerin-choi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 <br/><br/>
 
@@ -179,7 +179,7 @@ status      : Targeting Digital Finance Trading / IT
 1. **안전관리 Smartglasses IoT** — 한국정보처리학회 ACK 2023 (2022.11) / **1저자 (6명)** / 🏅 장려상
 2. **시각장애인 화재 대피 시스템** — 한국정보처리학회 ACK 2023 (2022.11) / **1저자 (4명)**
 3. **하수처리장 인공습지 식생 선정** — 한국습지학회 (2022.09) / **1저자 (5명)** / 🏅 우수논문상
-4. **광통신 기반 심전도 모니터링** — 한국통신학회논문지 Vol.47 No.3 (2022.03) / 공동저자 (9명)
+4. **광통신 기반 심전도 모니터링** — 한국통신학회논문지 Vol.47 No.3 (2022.03) / 2저자 (9명 中)
 
 ---
 
@@ -190,6 +190,7 @@ status      : Targeting Digital Finance Trading / IT
 <td width="50%" valign="top">
 
 ### 🔬 ETRI MLOps Quantization
+**@ Surromind, Gen AI Team**
 
 FP32 → INT8 Post-Training Quantization
 TensorRT / ONNX Runtime / TFLite
@@ -200,6 +201,7 @@ TensorRT / ONNX Runtime / TFLite
 <td width="50%" valign="top">
 
 ### 🤖 Humanoid Robot Data Pipeline
+**@ Surromind × ETRI**
 
 NVIDIA IsaacSim / Cosmos Domain Randomization / GR00T
 
