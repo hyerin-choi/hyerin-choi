@@ -84,14 +84,6 @@ status      : Targeting Digital Finance Trading / IT
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hyerin-choi&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyerin-choi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-<br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=hyerin-choi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 
 </div>
